@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/herotext.ico</file>
+        <file>src/herotext.png</file>
+    </qresource>
+</RCC>
